@@ -1,3 +1,5 @@
+<h1 style="color: purple;">Kenz</h1>
+
 # 👋 Hi, I’m KenzGlobe
 
 Welcome to my GitHub profile! 🚀  
