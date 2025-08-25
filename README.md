@@ -1,4 +1,6 @@
-<h1 style="color: purple;">Kenz</h1>
+<div>
+    <img src="img/rec_pro_pic.png" />
+</div>
 
 # 👋 Hi, I’m KenzGlobe
 
