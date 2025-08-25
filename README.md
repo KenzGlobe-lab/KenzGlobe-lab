@@ -1,5 +1,5 @@
 <div>
-    <img src="img/rec_pro_pic.png" />
+    <img src="rec_pro_pic.png" />
 </div>
 
 # 👋 Hi, I’m KenzGlobe
